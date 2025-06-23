@@ -1,7 +1,8 @@
 # SUMMER_TRAINING
 This is a repository for the daily dairy of my summer internship under Dr. Sandeep Singh Sandha, Punjab AI Excellence.
 
-DAY 1 (23/06/2025)
+**DAY 1 (23/06/2025)**
+
 Today was a day full of excitement and enthusiasm as i started with my summer internship as a Data Scientist under the mentorship of Dr. Sandeep Singh Sandha.
 Sir introduced us with the basic concepts of AI and the steps which need to be followed while making any AI project. 
 The things which i learnt today include:
