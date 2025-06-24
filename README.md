@@ -10,3 +10,5 @@ The things which i learnt today include:
 2) AI is a system that can perform tasks that normally require humna intelligence, and it can even supass human performance.
 3) AI can - WRITE LIKE HUMANS(e.g. chatgpt can write blogs, essays for us), TALK LIKE HUMNAS(e.g. Siri, Google assistant, Alexa) , SEE LIKE HUMANS (Ai systems can recognize objects and text in images).
 4) There are 4 steps in creating AI - **DATA COLLECTION**(collect relevant text, images, etc related to your project), **SELECTION OF INTELLIGENCE**(it includes choosing which type of model fits best, e.g. neural networks), **TRAINING AI** (it includes training the model to learn patterns from data so that it can make predictions or decisions) , **EVALUATING/TESTING AI** (finally we check how well the trained model performs on unseen data to ensure that it gives accurate and reliable results).
+
+DAY 1 - (daily_dairy/day1.md)
