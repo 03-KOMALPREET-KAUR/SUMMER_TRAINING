@@ -14,3 +14,5 @@ The things which i learnt today include:
 DAY 1 - [(daily_dairy/day1.md)](https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/commit/65175e1ab9bb6a1efbf43abc9f45b1ec174431cc)
 
 DAY 2 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day2.md
+
+DAY 3 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day3.md  
