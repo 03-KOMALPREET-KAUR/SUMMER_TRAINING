@@ -11,7 +11,7 @@ The things which i learnt today include:
 3) AI can - WRITE LIKE HUMANS(e.g. chatgpt can write blogs, essays for us), TALK LIKE HUMNAS(e.g. Siri, Google assistant, Alexa) , SEE LIKE HUMANS (Ai systems can recognize objects and text in images).
 4) There are 4 steps in creating AI - **DATA COLLECTION**(collect relevant text, images, etc related to your project), **SELECTION OF INTELLIGENCE**(it includes choosing which type of model fits best, e.g. neural networks), **TRAINING AI** (it includes training the model to learn patterns from data so that it can make predictions or decisions) , **EVALUATING/TESTING AI** (finally we check how well the trained model performs on unseen data to ensure that it gives accurate and reliable results).
 
-DAY 1 - [(daily_dairy/day1.md)](https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/commit/65175e1ab9bb6a1efbf43abc9f45b1ec174431cc)
+DAY 1 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day1.md
 
 DAY 2 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day2.md
 
