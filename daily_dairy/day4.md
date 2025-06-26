@@ -1,7 +1,7 @@
 **DAY 4 (26/06/2025)**
 
 Today i learnt about the stages of AI Project Cycle. It included the following points:
-1) There are mainly 5 stages of developing an AI project:
+There are mainly 5 stages of developing an AI project:
 
 **i. PROBLEM SCOPING:** This stage focuses on identifying and understanding the problem using 4Ws- WHO(who are the people that would be benefitted with the solution), WHAT(What is the problem and how do you know that it is a problem), WHERE(It includes looking into the situation where problem arises and the locations where it is prominent), WHY(Why you want to solve this problem)
 
