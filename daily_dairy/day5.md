@@ -1,10 +1,15 @@
 DAY 5 (27/06/2025)
  
 1) Today, we were introduced to the basic concepts of python including:
+
 i. Variables(used to store values)
+
 ii. Datatypes and Operators
+
 iii. Lists(store datasets like temperature readings for weather prediction models)
+
 iv. Dictionaries(help to store labelled data, like mapping students to their test scores for analyzing performance)
+
 v. if-else conditions(used in past to create simple rule-based AI)
 
 2) Some of the open-source packages which are needed for Artificial Intelligence are:
