@@ -1,6 +1,6 @@
 **DAY 9(03/07/2025)**
 
-Today i learned about the NumPylibrary and its various function in detail.
+Today i learned about the NumPy library and its various functions in detail.
 
 1) **NumPy(Numerical Python):** It is a powerful library used for numerical computations in Python.
 
