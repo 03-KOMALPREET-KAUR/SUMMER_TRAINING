@@ -16,7 +16,7 @@ Today i learned about the NumPy library and its various functions in detail.
 
    vi. **Creating array of evenly spaced values** - **np.linspace(start, stop, num_values)** returns an array of evenly spaced values between start and stop, divided into the specified number of values. **np.arange(start, stop, step)** returns an array of values from start to stop with a defined step interval.
 
-   vii. **Converting a list to a NumPy array** - np.asarray(list_name) is used to convert a list to a NumPy array.
+   vii. **Converting a list to a NumPy array** - **np.asarray(list_name)** is used to convert a list to a NumPy array.
 
    viii. **Array Properties** - **.shape** returns the dimensions (rows, columns) of the array.
    **.ndim** returns the number of dimensions (axes) of the array.
