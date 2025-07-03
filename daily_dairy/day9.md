@@ -20,11 +20,11 @@ Today i learned about the NumPy library and its various functions in detail.
 
    viii. **Array Properties** - **.shape** returns the dimensions (rows, columns) of the array.
    
-   **.ndim** returns the number of dimensions (axes) of the array.
+      **.ndim** returns the number of dimensions (axes) of the array.
+     
+      **.size** returns the total number of elements in the array.
    
-   **.size** returns the total number of elements in the array.
-   
-   **.dtype** returns the data type of the array’s elements (e.g., int, float).
+      **.dtype** returns the data type of the array’s elements (e.g., int, float).
 
    ix. **Mathematical Operations on NumPy arrays** - It is not possible to perform element-wise operations in a list as the "+" operation concatenates two lists. However, in a NumPy array, element-wise operations are possible. The functions - **np.add(), np.subtract(), np.multiply(), np.divide()** are used to add, subtract, multiply and divide two NumPy arrays respectively.
 
