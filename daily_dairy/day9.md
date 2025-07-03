@@ -19,10 +19,13 @@ Today i learned about the NumPy library and its various functions in detail.
    vii. **Converting a list to a NumPy array** - **np.asarray(list_name)** is used to convert a list to a NumPy array.
 
    viii. **Array Properties** - **.shape** returns the dimensions (rows, columns) of the array.
+   
    **.ndim** returns the number of dimensions (axes) of the array.
+   
    **.size** returns the total number of elements in the array.
+   
    **.dtype** returns the data type of the array’s elements (e.g., int, float).
 
-   ix. **Mathematical Operations on NumPy arrays** - It is not possible to perform element-wise operations in a list as the "+" operation concatenated two lists. However, in a NumPy array, element-wise operations are possible. The functions - np.add(), np.subtract(), np.multiply(), np.divide() are used to add, subtract, multiply and divide two NumPy arrays respectively.
+   ix. **Mathematical Operations on NumPy arrays** - It is not possible to perform element-wise operations in a list as the "+" operation concatenates two lists. However, in a NumPy array, element-wise operations are possible. The functions - **np.add(), np.subtract(), np.multiply(), np.divide()** are used to add, subtract, multiply and divide two NumPy arrays respectively.
 
-   x. **Array Manipulation** - We can find the transpose of array using **.T** and **np.transpose()**.  We can reshape an array using **.reshape(new_shape)**.
+   x. **Array Manipulation** - We can find the transpose of a NumPy array using **.T** and **np.transpose()**.  We can reshape an array using **.reshape(new_shape)**.
