@@ -10,7 +10,7 @@ Today, we explored the Pandas and Matplotlib library in detail.
 
    iii. **File access using Pandas:** To load data from a excel file to a Pandas DataFrame, we use pd.read_excel('file_path') and similarly to read a csv file, we use pd.read_csv('file_path').
 
-   iv. **Exporting the Pandas DataFrame to a file:** For exporting the pandas dataframe to excel file, we use df.to_excel('filename') and to csv file, we use df.to_csv('file_name).
+   iv. **Exporting the Pandas DataFrame to a file:** For exporting the pandas dataframe to excel file, we use df.to_excel('filename') and for csv file, we use df.to_csv('file_name').
 
    v. **Creating a DataFrame with random values**: We use pd.DataFrame(np.random.rand(20,10)) to create a dataframe with 20 rows and 10 columns filled with random float values between 0.0 and 1.0.
 
