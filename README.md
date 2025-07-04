@@ -28,3 +28,5 @@ DAY 7 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_da
 DAY 8 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day8.md
 
 DAY 9 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day9.md
+
+DAY 10 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day_10.md
