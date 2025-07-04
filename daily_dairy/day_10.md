@@ -57,7 +57,7 @@ Today, we explored the Pandas and Matplotlib library in detail.
 
     c) Columns can be easily inserted, modified and deleted from DataFrame.
 
-    d) It provides support for cleaning of data neede for processing.
+    d) It provides support for cleaning of data needed for processing.
 
     e) It provides support for reshaping, merging and joining various datasets.
 
@@ -74,9 +74,12 @@ Today, we explored the Pandas and Matplotlib library in detail.
       e) **plt.pie()** is used to plot a Pie chart.
    
    ii. **Customizing Plots**
-       a) **Title**: plt.title("Title")
-       b) **Labels**: plt.xlabel("x"), plt.ylabel("y")
-       c) **Colors and markers**: plt.plot(x, y, color='red', marker='o')
+   
+      a) **Title**: plt.title("Title")
+
+      b) **Labels**: plt.xlabel("x"), plt.ylabel("y")
+   
+      c) **Colors and markers**: plt.plot(x, y, color='red', marker='o')
    
 
 
