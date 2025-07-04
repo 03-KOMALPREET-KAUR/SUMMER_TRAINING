@@ -14,12 +14,17 @@ Today, we explored the Pandas and Matplotlib library in detail.
 
    v. **Creating a DataFrame with random values**: We use pd.DataFrame(np.random.rand(20,10)) to create a dataframe with 20 rows and 10 columns filled with random float values between 0.0 and 1.0.
 
-   vi. **Inspecting the DataFrame:** **.head()** gives the first 5 rows of dataframe, **.tail()** gives the last 5 rows, **.info()** gives a concise summary of the DataFrame including number of rows and columns, data types of the values, missing values, memory usage etc. **.shape** give the dimensions (rows, columns) and **.isnull().sum()** is used to check for missing values.
+   vi. **Inspecting the DataFrame:**
+       **.head()** gives the first 5 rows of DataFrame.
+       **.tail()** gives the last 5 rows of DataFrame.
+       **.info()** gives a concise summary of the DataFrame including number of rows and columns, data types of the values, missing values, memory usage etc.
+       **.shape** give the dimensions (rows, columns).
+       **.isnull().sum()** is used to check for missing values.
 
    vii. **Statistical Measures:** **.mean()** – Returns the average value of each column.
    
    
-    **.std()** – Returns the standard deviation (spread) of values in each column.
+    **.std()** – Returns the standard deviation of values in each column.
 
 
     **.min()** – Returns the minimum value in each column.
