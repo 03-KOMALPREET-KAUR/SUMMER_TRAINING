@@ -4,7 +4,8 @@ Today we studied about the importance of data in a ML project and how to collect
 
 1) **Importance of Data Collection**: Data collection is a critical step in any AI project.
   
-   a) **Foundation for Analysis**: The quality of insights, predictions, or decisions depends on the quality of the collected data. Good data → Good models → Better outcomes.
+   a) **Foundation for Analysis**: The quality of insights, predictions, or decisions depends on the quality of the collected data.
+      Good data → Good models → Better outcomes.
 
    b) **Understanding the Problem:** Data helps define the problem space and ask better questions.
 
@@ -12,7 +13,7 @@ Today we studied about the importance of data in a ML project and how to collect
 
    d) **Performance & Accuracy:** Poor or biased data leads to inaccurate results. High-quality, diverse datasets improve model accuracy.
 
-2) **Where to Collect Data From?**
+3) **Where to Collect Data From?**
 
    a) **Kaggle:** It is a popular platform for data science competitions. It has a huge collection of open datasets across fields like finance, health, retail, sports, etc. Each dataset comes with metadata, discussion, and often code notebooks.
 
@@ -20,17 +21,17 @@ Today we studied about the importance of data in a ML project and how to collect
 
    c) **Google Dataset Search:**   It is like Google Search, but specifically for datasets.
 
-3) **Using Kaggle API to Import Datasets:**
+4) **Using Kaggle API to Import Datasets:**
 
-   **Step 1:** Create a Kaggle Account
+   **Step 1:** Create a Kaggle Account.
 
    **Step 2:** Get Your Kaggle API Token. Click “Create New API Token” and a file called kaggle.json will download.
 
-   **Step 3:** Place the kaggle.json File Properly. Upload the kaggle.json file when prompted. Then move it to the right location.
+   **Step 3:** Place the kaggle.json file Properly. Upload the kaggle.json file when prompted. Then move it to the right location.
 
-   **Step 4:** Install Kaggle API
+   **Step 4:** Install Kaggle API.
 
-   **Step 5:** Find Dataset Name or URL on Kaggle
+   **Step 5:** Find Dataset Name or URL on Kaggle.
 
    **Step 6:** Download the Dataset. We get a zipped file in the working directory.
 
