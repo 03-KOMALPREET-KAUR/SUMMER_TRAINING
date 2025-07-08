@@ -18,9 +18,9 @@ Today we focused on data preprocessing and preparation, which is a vital step be
 
 6) **Feature Extraction:** For text data, we can’t use raw text in models. So we use TF-IDF to convert text into numeric vectors by measuring how important a word is in a document compared to the entire dataset.
 
-   TF (term frequency) = how often a word appears
+   TF(Term Frequency) = how often a word appears.
 
-   IDF (inverse document frequency) = how rare the word is across documents
+   IDF(Inverse Document Frequency) = how rare the word is across documents.
 
    It is used in tasks like spam detection, document classification, etc.
 
