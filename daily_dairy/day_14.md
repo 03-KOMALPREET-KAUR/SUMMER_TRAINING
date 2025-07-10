@@ -28,7 +28,7 @@ Today we were taught about the statistics which is needed for machine learning.
 
 3) **Types of Statistics:**
 
-     a) **Descriptive Statistics:** It is used to describe the basic features of the data in a study. It provides simple summary about the sample and the measures.(mean, median, SD, etc.)
+     a) **Descriptive Statistics:** It is used to describe the basic features of the data in a study. It provides simple summary about the sample and the measures.
 
      b) **Inferential Statistics:** It takes data from a sample and makes inferences and predictions about the larger population from which the sample was drawn.
 
@@ -41,9 +41,10 @@ Today we were taught about the statistics which is needed for machine learning.
    c) **Experimental Study:** An experimental study is a study in which conditions are controlled and manipulated by the experimenter.
 
 5) **Sampling Techniques:**
+   
   **A. Probability Sampling:** Probability sampling is a sampling technique in which every member of the population has a known, non-zero chance of being selected. It has the following types-
 
-    a) **Simple Random Sampling:** In this, the sample is randomly picked from a larger population. Hence, all the individual datapoints have an equal probability to be selected as a sample data.
+   a) **Simple Random Sampling:** In this, the sample is randomly picked from a larger population. Hence, all the individual datapoints have an equal probability to be selected as a sample data.
 
       PROS: No sample bias, Balanced Sample, Simple method of sampling, Requires less domain knowledge.
 
@@ -69,7 +70,7 @@ Today we were taught about the statistics which is needed for machine learning.
 
    **B. Non-Probability Sampling:** Non-probability sampling is a sampling technique in which not all members of the population have a known or equal chance of being selected.
 
-6) **Measures of Central Tendencies:** 
+7) **Measures of Central Tendencies:** 
 
    a) **Mean:** Mean or arithmetic mean is the sum of values divided by the number of values.
 
@@ -83,7 +84,7 @@ Today we were taught about the statistics which is needed for machine learning.
 
    MODE - Useful for categorical data
 
-7) **Measures of Variability:**
+8) **Measures of Variability:**
    
    a) **Range:** Range is the difference between maximum and minimum values.
 
@@ -91,17 +92,17 @@ Today we were taught about the statistics which is needed for machine learning.
 
    c) **Standard Deviation:** Standard Deviation is the square root of variance. It is widely used to understand how spread out the data is.
 
-8) **Percentiles and Quantiles:**
+9) **Percentiles and Quantiles:**
    a) **Percentile:** It is a value on the scale of 100 that indicates the percent of distribution that is equal to or below it.
 
    b) **Quantiles:** It is a measure that tells how many values in a dataset are above or below a certain limit. It divides the members of the dataset into **equally-sized** subgroups.
 
-9) **Correlation and Causation:**
+10) **Correlation and Causation:**
     a) **Correlation:** Correlation is a measure that determines the extent to which two variables are related to each other in a dataset. But, it does not mean that one event is the cause of other event.
 
     b) Causation: Causation means that one event causes another event to occur, i.e. there is a **cause-effect** relationship between the two variables.
 
-10) **Hypothesis Testing:** Hypothesis is an assumption that is made based on the observations of an experiment.
+11) **Hypothesis Testing:** Hypothesis is an assumption that is made based on the observations of an experiment.
 
     a) **Null Hypothesis:** It is the commonly accepted fact.
 
