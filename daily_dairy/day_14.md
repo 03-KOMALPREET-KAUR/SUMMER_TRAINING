@@ -78,11 +78,11 @@ Today we were taught about the statistics which is needed for machine learning.
 
    c) **Mode:** Mode is the value that occurs most often.
 
-    MEAN - Good for symmetric distributions
+      MEAN - Good for symmetric distributions
 
-    MEDIAN - Best for skewed data
+      MEDIAN - Best for skewed data
 
-    MODE - Useful for categorical data
+      MODE - Useful for categorical data
 
 9) **Measures of Variability:**
    
@@ -102,7 +102,7 @@ Today we were taught about the statistics which is needed for machine learning.
     
     a) **Correlation:** Correlation is a measure that determines the extent to which two variables are related to each other in a dataset. But, it does not mean that one event is the cause of other event.
 
-    b) Causation: Causation means that one event causes another event to occur, i.e. there is a **cause-effect** relationship between the two variables.
+    b) **Causation:** Causation means that one event causes another event to occur, i.e. there is a **cause-effect** relationship between the two variables.
 
 14) **Hypothesis Testing:** Hypothesis is an assumption that is made based on the observations of an experiment.
 
