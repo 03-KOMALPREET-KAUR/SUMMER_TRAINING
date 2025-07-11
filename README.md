@@ -28,3 +28,5 @@ DAY 12 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_d
 DAY 13 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day_13.md
 
 DAY 14 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day_14.md
+
+DAY 15 - https://github.com/03-KOMALPREET-KAUR/SUMMER_TRAINING/blob/main/daily_dairy/day_15.md
