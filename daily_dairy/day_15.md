@@ -3,9 +3,10 @@
 Today, I explored one of the core pillars of statistical reasoning — Probability and its critical role in machine learning and data science.
 
 1)  **What is Probability?**
-   Probability is a branch of mathematics that deals with quantifying uncertainty. It helps measure the likelihood of occurrence of an event and is expressed as a number between 0 and 1.
 
-   In ML, probability allows us to make predictions, model uncertainty, and infer patterns from data.
+    Probability is a branch of mathematics that deals with quantifying uncertainty. It helps measure the likelihood of occurrence of an event and is expressed as a number between 0 and 1.
+
+    In ML, probability allows us to make predictions, model uncertainty, and infer patterns from data.
 
 2) **Random Variables:** A random variable is a numerical description of the outcomes of random events. It assigns a number to each outcome in a sample space i.e. it maps the outcomes of random events to numerical values.
 
